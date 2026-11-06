@@ -1,0 +1,24 @@
+:root {
+    /* Blueberry Theme */
+    --blueberry-bg: #B4AEDE;
+    --blueberry: #5F51B8;
+    --blueberry-dark: #1C173A;
+
+    /* Butterscotch Theme */
+    --butterscotch-bg: #EFCD98;
+    --butterscotch: #FFA647;
+    --butterscotch-dark: #342409;
+
+    /* Chocolate Theme */
+    --chocolate-bg: #BF9788;
+    --chocolate: #9F6956;
+    --chocolate-dark: #0D0907;
+
+    /* Strawberry Theme */
+    --strawberry-bg: #FBDCDB;
+    --strawberry: #F1827E;
+    --strawberry-dark: #5C0D0A;
+
+    --lightorange-bg: #FBDCDB;
+    --ink: #1a1a1a;
+}
